@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.carpark.ifs;
+package lakalk.carparkmavenproj;
 
+//import com.carpark.ifs.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.logging.Level;
