@@ -16,6 +16,9 @@ public class CarPark {
     private int    maxSlots;
     private int    resvSlots;
     private String location;
+     private String test;
+    
+    
     
        
     
